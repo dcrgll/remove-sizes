@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "you hate sizes? we all hate sizes.",
   "bin": {
-    "@daaaan/remove-sizes": "./bin/index.js"
+    "remove-sizes": "./bin/index.js"
   },
   "repository": {
     "type": "git",
