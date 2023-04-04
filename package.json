@@ -1,13 +1,9 @@
 {
-  "name": "remove-sizes",
+  "name": "@daaaan/remove-sizes",
   "version": "1.0.0",
   "description": "you hate sizes? we all hate sizes.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
-    "remove-sizes": "./bin/index.js"
+    "@daaaan/remove-sizes": "./bin/index.js"
   },
   "repository": {
     "type": "git",
